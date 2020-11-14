@@ -1,4 +1,16 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Tech4Good Website
+
+[![Site Preview](https://img.shields.io/badge/preview-Vercel-black?logo=vercel)](https://tech4good-website-staging.vercel.app)
+[![License](https://img.shields.io/github/license/Tech4GoodCN/website?color=blue)](https://github.com/Tech4GoodCN/website/blob/main/LICENSE)
+
+> Project started from https://github.com/mui-org/material-ui/tree/master/examples/nextjs
+
+## Build upon
+- [Next.js](https://nextjs.org)
+- [React](https://reactjs.org/)
+- [Material-UI](https://material-ui.com)
+- [Material Design Icons](https://materialdesignicons.com)
+    - as used wrapper [`mdi-material-ui`](https://github.com/TeamWertarbyte/mdi-material-ui#readme)
 
 ## Getting Started
 
@@ -23,8 +35,6 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+## License
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+MIT 
