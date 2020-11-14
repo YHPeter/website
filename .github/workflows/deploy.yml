@@ -45,4 +45,4 @@ jobs:
           SOURCE: "dist/"
           REMOTE_HOST: ${{ secrets.SSH_HOST }}
           REMOTE_USER: ${{ secrets.SSH_USERNAME }}
-          TARGET: "/usr/share/nginx/web/"
+          TARGET: "/usr/share/nginx/web/testweb/test2"
